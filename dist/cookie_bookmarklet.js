@@ -31,7 +31,7 @@ module.exports = {
           '<button class="ccc-button ccc-delete">Delete</button>' +
         '</div>' +
       '</li>',
-
+alert("This Lists All Cookies From All Websites. Make Sure You Know The Cookies Function Is Before Editing Or Removing!")
     noCookies: '' +
       '<li class="ccc-item">' +
         '<label class="ccc-name">No cookies on this page.</label>' +
